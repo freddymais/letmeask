@@ -12,7 +12,9 @@
 </div>
 
 <h3 align="center">
+
 💡 Letmeask é um projeto **Open Source** desenvolvido na semana Next Level Week Together da **Rocketseat** utilizando as tecnologias **_TypeScript, Node, Elixir, Flutter, React e React Native_**.
+
 </h3>
 
 ## **:wine_glass: COMO UTILIZAR**
