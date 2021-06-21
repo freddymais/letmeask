@@ -3,10 +3,10 @@
 <img src="https://img.shields.io/static/v1?label=LetMeAsk&message=App&color=blueviolet&style=for-the-badge&logo=quip" />
 <img src="https://img.shields.io/static/v1?label=ReactJS&message=Web&color=blue&style=for-the-badge&logo=react" />
 <img src="https://img.shields.io/static/v1?label=Reactnative&message=Mobile&color=blue&style=for-the-badge&logo=react" />
-<img src="https://img.shields.io/static/v1?label=NodeJS&message=Backend&color=success&style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/static/v1?label=NodeJS&message=Backend&color=brightgreen&style=for-the-badge&logo=node.js" />
 <img src="https://img.shields.io/static/v1?label=Firebase&message=Api&color=orange&style=for-the-badge&logo=firebase" />
 <img src="https://img.shields.io/static/v1?label=TypeScript&message=</>&color=blue&style=for-the-badge&logo=TypeScript" />
-<img src="https://img.shields.io/static/v1?label=Elixir&message=Backend&color=blue&style=for-the-badge&logo=elixir" />
+<img src="https://img.shields.io/static/v1?label=Elixir&message=Backend&color=ff69b4&style=for-the-badge&logo=elixir" />
 <img src="https://img.shields.io/static/v1?label=Flutter&message=Mobile&color=blue&style=for-the-badge&logo=flutter" />
 
 </div>
