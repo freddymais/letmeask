@@ -1,13 +1,15 @@
+<div align="center">
+
 <img src="https://img.shields.io/static/v1?label=LetMeAsk&message=App&color=blueviolet&style=for-the-badge&logo=quip" />
 <img src="https://img.shields.io/static/v1?label=ReactJS&message=Web&color=blue&style=for-the-badge&logo=react" />
 <img src="https://img.shields.io/static/v1?label=NodeJS&message=BackEnd&color=success&style=for-the-badge&logo=node.js" />
 <img src="https://img.shields.io/static/v1?label=Firebase&message=Api&color=orange&style=for-the-badge&logo=firebase" />
 <img src="https://img.shields.io/static/v1?label=TypeScript&message=</>&color=blue&style=for-the-badge&logo=firebase" />
 
+</div>
+
 <h3 align="center">
-
-💡 Letmeas é um projeto **Open Source** desenvolvido na semana **Next Level Week Together** da **[Rocketseat][rocketseat_site]** utilizando as tecnologias **_TypeScript, Node, Elixir, Flutter, React e React Native_**.
-
+💡 Letmeask é um projeto **Open Source** desenvolvido na semana **Next Level Week Together** da **Rocketseat** utilizando as tecnologias **_TypeScript, Node, Elixir, Flutter, React e React Native_**.
 </h3>
 
 ## **:wine_glass: COMO UTILIZAR**
