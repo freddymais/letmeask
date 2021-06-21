@@ -1,4 +1,4 @@
-https://img.shields.io/github/languages/code-size/freddymais/letmeask?label=Letmeask&style=plastic
+<img src="https://img.shields.io/github/languages/code-size/freddymais/letmeask?label=Letmeask&style=plastic" />
 
 ![BADGE_LICENSE] ![BADGE_NODE_VERSION] ![BADGE_NPM_VERSION] ![BADGE_WEB_REACT] ![BADGE_MOBILE_REACT_NATIVE] ![BADGE_SERVER_NODEJS] ![BADGE_TYPESCRIPT] ![BADGE_OPEN_SOURCE] !
 
